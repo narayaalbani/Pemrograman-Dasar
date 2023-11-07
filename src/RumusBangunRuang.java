@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class RumusBalok {
+public class RumusBangunRuang {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double pi = Math.PI;
